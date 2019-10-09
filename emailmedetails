@@ -1,0 +1,10 @@
+	<form method="post" action="#">
+									<div class="fields">
+									 <label for="demo-email">Email me a copy</label>
+										 <input type="email" name="submit_me" id="submit_me" value="" placeholder="sven@gigitool.me" />
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</div>
+								</div>
