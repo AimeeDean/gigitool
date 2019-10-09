@@ -1,0 +1,25 @@
+<!--5 whys -->
+											<div id="tab-5" class="tab-content ">
+											<a href="#">For the next 5 minutes, it’s Boy Band time! Sit back, relax, and just tell me why…But don’t forget to click the timer.</a>
+											<ul>
+											<li>Why is your user feeling this way? </li>
+											<input type="text" name="userfeeling" id="userfeeling" value="" placeholder="They feel this way because..."/>
+											<li>Why are they having this problem?</li>
+											<input type="text" name="userproblemis" id="userproblemis" value="" placeholder="This problem is because..."/>
+											<li>Why is this important?</li>
+											<input type="text" name="userimportant" id="userimportant" value="" placeholder="It is important because..."/>
+											<li>Why do they want it solved?</li>
+											<input type="text" name="usersolved" id="usersolved" value="" placeholder="This issue stops users..."/>
+											<li>Why?</li>
+											<input type="text" name="usergoal" id="usergoal" value="" placeholder="Our users want to..."/>
+											<ul>
+
+											<br>
+
+
+											<p class="major">"Cause I want it that way".</p>
+											<p class="minor">Our <b>users</b> are struggling with <b>a problem</b> which makes them <b>feel</b> because there are <b>further problems</b> caused. The main reason this happens is that there is an <b>underlying problem/lack</b> so we need to help them ideal situation so that goal.</p><br>
+											<p>Now you have an insight that you can use to create ideas with. Head on to the next stage and keep the party going.</p>
+										</div>
+
+										<!--5 WHYS END -->
