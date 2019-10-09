@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+  <title>countdown clock</title>
+		<meta charset="utf-8" />
+  </head>
+ <body>
+ <div class="values">00:00</div>
+  <div>
+        <button class="startButton">Start</button>
+        <button class="resetButton">Reset</button>
+  </div>
+</div>
+ </body>
+</html>  
