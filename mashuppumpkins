@@ -1,0 +1,31 @@
+<!-- The Mashup Pumpkins -->
+
+<div id="tab-4" class="tab-content current">
+<h4>We’ve got The Mashup Pumpkins on the stage right now! They’ll make you connect all your memories.<br>
+Pick one card from each category, just one!<br>
+Place them in boxes to your right<br></h4>
+<h2>Categories</h2>
+<h4>Human Needs</h4>
+<h4>Existing Services</h4>
+<h4>Technologies</h4>
+
+<!-- Categories
+Human needs: Entertainment, transportation, going to a gig, getting paid, paying, booking, listening to music, watching movies, dancing,  playing an instrument.
+
+Existing Services: Spotify, Google calendar, Uber, iTunes, Shazam, Soundcloud, Swish, BankID, iMovie, google maps, Google drive, Facetime.
+
+Technologies: Cell phone, Laptop, iPad, Headphones, Car, Plane, microphones, speakers, Projector, screens, 3d printers, GPS, Wifi, Bluetooth.  -->
+
+<p>And now? You have 4 minutes come up with a bunch of ideas, that combines aallll three things!
+<br>
+Once you’ve done that, use dotmocracy to pick the idea you all like. But you only have 4 minutes to pick. Hurry up!</p>
+<br>
+
+<!-- This is put in as an accordion but this could be done as a roll over information window -->
+
+<details><summary><p class="major">What's Dotmocracy?</p></summary>
+<p class="minor">Each participant has 5 dots to place against their idea of choice. You may add anywhere from 1-5 dots against an idea and the idea with the most dots is the winner.</p>
+</details>
+</div>
+
+<!-- The Mashup Pumpkins END -->
