@@ -1,0 +1,34 @@
+<!-- Pitch, don't kill my vibe -->
+
+<div id="tab-8" class="tab-content">
+</div>
+<h4>Now you have an awesome idea! But your developers need you to explain it properly so they can create it.
+</h4>
+<br>
+<p>The user has problems with </p>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+<p>and they feel </p>
+<input type="text" name="userfeelings" id="userfeelings" value="" placeholder="this feeling"/>
+<p>. They want to </p>
+<input type="text" name="usergoals" id="usergoals" value="" placeholder="this goal"/>
+<p>So we gave them </p>
+<input type="text" name="thissolution" id="thissolution" value="" placeholder="this solution"/>
+<p>so they can </p>
+<input type="text" name="userachievement" id="userachievement" value="" placeholder="this achievement"/>
+<p>by </p>
+<input type="text" name="useraction" id="user action" value="" placeholder="user action"/>
+<p>and </p>
+<input type="text" name="whatisthis" id="whatisthis" value="" placeholder="what is this?"/>
+</div>
+
+<!-- output -->
+
+<p class="major">
+Our <output id="pitchusers" />
+are struggling with <output id="pitchproblem"/>
+because of <output id="pitchunderlyingproblem" />
+which causes <output id="pitchfeeling" />.
+To solve this, we want to create a tool that enables them to <output id="pitchsolution" />
+by implementing <output id="pitchservice" />.
+
+<!-- Pitch, don't kill my vibe END -->
