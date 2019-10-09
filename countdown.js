@@ -33,7 +33,7 @@ function setup () {
        document.getElementById("start").innerHTML = --c;
        if (c == 0) {
          clearInterval(myTimer);
-         alert("Reached zero");
+         alert("Time's up!");
        }
      }
    }
