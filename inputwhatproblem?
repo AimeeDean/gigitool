@@ -1,0 +1,7 @@
+	<form method="post" action="#">
+										<div class="fields">
+											<div class="field">
+												<h3>What is the problem you want to solve?</h3>
+												<input type="text" name="problem" id="problem" value="" placeholder="Capture your hypothesis here"/>
+												<br>
+												<div class="container" class="inputme">
