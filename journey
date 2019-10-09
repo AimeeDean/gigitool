@@ -1,0 +1,36 @@
+
+<!-- Journey -->
+
+<div id="tab-7" class="tab-content current">
+<h4>Yo! You have an idea! But how will it work when you put it into the website? </h4>
+<ol>
+<li>Where does the user start?</li>
+<input type="text" name="userstartshere" id="userstartshere" value="" placeholder="User starts here..."/>
+Where do they first see that they can use this new function?</li>
+<input type="text" name="userseesthis" id="userseesthis" value="" placeholder="User sees this..."/>
+<li>What’s the first thing they see here?</li>
+<input type="text" name="userfirststep" id="userfirststep" value="" placeholder="User's first step is..."/>
+<li>What do you expect them to do here?</li>
+<input type="text" name="userexpects" id="userexpects" value="" placeholder="User is expected to..."/>
+<li>Think about how you will guide them to do this? </li>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+<li>What do they do there?</li>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+<li>What happens now?</li>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+<li>Where does this lead? What have they achieved? What are they expected to do now?</li>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+<li>Now what? What more steps are needed to achieve the goal?</li>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+<li>Are there more steps?</li>
+<input type="text" name="userproblems" id="userproblems" value="" placeholder="this problem"/>
+</ol>
+</div>
+<br>
+
+<!--Lights on -->
+
+<p>The lights are on but that doesn’t mean the party is over. As every successful night out, you’ve now got a nice sweet thing to take home and test.</p>
+
+
+<!-- Journey END -->
