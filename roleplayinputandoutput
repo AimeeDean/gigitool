@@ -1,0 +1,51 @@
+<div id="tab-6" class="tab-content">
+												<h4>Instructions: Tonight you can be whoever you want to be. Step into the shoes of someone else. Walk a mile in their shoes. What is their perspective?</h4>
+
+										<form><p class="major">
+											I am a
+											<input type="text" class="custom" name="input8" id="input8" required minlength="2" maxlength="50" placeholder="Which user?" />
+											who is having problems with
+											<input type="text" class="custom" name="input9" id="input9" minlength="1" maxlength="50" placeholder="this problem"/>
+											I feel
+											<input type="text" class="custom" name="input10" id="input10" minlength="1" maxlength="50" placeholder="what feeling"/>
+											because
+											<input type="text" class="custom" name="input11" id="input11" minlength="1" maxlength="50" placeholder="different issue"/>
+											is causing
+											<input type="text" class="custom" name="input12" id="input12" minlength="1" maxlength="50" placeholder="because I lack"/>
+											I want to be able to
+											<input type="text" class="custom" name="input13" id="input13" minlength="1" maxlength="50" placeholder="achieve this" />
+										 		so that I can
+												<input type="text" class="custom" name="input14" id="input14" minlength="1" maxlength="50" placeholder="the end goal" /> .</p>
+												<input type="submit" value="Submit"></form>
+												<br><br>
+												 <h3>Problem Statement:</h3>
+		 										<!-- OUTPUT this really needs fixing don't know if php or js-->
+
+		 														<p class="major">Our
+		 														<output id="output8" /> are struggling with
+		 														<output id="output9"/>
+		 														which makes them feel
+		 														<output id="output10" />
+		 														because they
+		 														<output id="output11" />.
+		 														The main reason this happens is that
+		 														<output id="output12" />
+		 														so we need to help them
+		 														<output id="output13" />
+		 														so that
+		 														<output id="output14"/>.</p>
+		 													</div>
+		 												<br><br>
+
+
+							<div>
+								<form method="post" action="#">
+									<div class="fields">
+									 <label for="demo-email">Email me a copy</label>
+										 <input type="email" name="submit_me" id="submit_me" value="" placeholder="sven@gigitool.me" />
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</div>
+								</div>
