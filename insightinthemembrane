@@ -1,0 +1,47 @@
+	<!--Insight In The Membrane -->
+
+										<div id="tab-1" class="tab-content current">
+											<h3 class="major">Insight in The Membrane</h3>
+											<!-- Lyrics -->
+											<p class="major">	Welcome to the first hit of the night!
+											<br>When we say “Insight in”
+											<br> you say “The membrane!”
+											<br>Make sure to answer every question the band asks.
+											<br>You don’t miss the beat drop!</p>
+											<br>
+    									<form><p class="major">Our
+											<input type="text" class="custom" name="input1" id="input1" required minlength="2" maxlength="50" placeholder="Who is our user?" />
+			 								are struggling with
+											<input type="text" class="custom" name="input2" id="input2" minlength="1" maxlength="50" placeholder="the main problem"/>
+											which makes them feel
+											<input type="text" class="custom" name="input3" id="input3" minlength="1" maxlength="50" placeholder="what feeling"/>
+											because they
+											<input type="text" class="custom" name="input4" id="input4" minlength="1" maxlength="50" placeholder="different issue"/> .
+											The main reason this happens is that
+											<input type="text" class="custom" name="input5" id="input5" minlength="1" maxlength="50" placeholder="they lack"/>
+											so we need to help them
+											<input type="text" class="custom" name="input6" id="input6" minlength="1" maxlength="50" placeholder="achieve this" />
+											so that
+											<input type="text" class="custom" name="input7" id="input7" minlength="1" maxlength="50" placeholder="the end goal" /> .</p>
+											<input type="submit" value="Submit"></form>
+											<br><br>
+
+											<h3>DROP:</h3>
+ <!-- OUTPUT this really needs fixing don't know if php or js-->
+    									<p class="major">
+											Our <output id="output1" />
+											are struggling with <output id="output2"/>
+											which makes them feel <output id="output3" />
+											because they <output id="output4" />.
+											The main reason this happens is that <output id="output5" />
+											so we need to help them <output id="output6" />
+											so that <output id="output7"/>.</p>
+
+
+											<details><summary><p class="major">View Example</p></summary>
+											<p class="minor">Our artists are struggling with finding gigs which makes them feel frustrated because they are not making enough money on the site. The main reason this happens is that they are not updating their pages correctly so we need to help them have good artists pages so that they book more gigs.</p>
+											</details>
+											</div>
+											</div>
+											</div>
+											<!--Insight In The Membrane END -->
