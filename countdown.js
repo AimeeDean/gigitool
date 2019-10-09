@@ -24,4 +24,17 @@ function setup () {
     clearInterval = (interval);
     counter = 0;
   }
+  
+   function clock() {
+     var myTimer = setInterval(myClock, 1000);
+     var c = 5;
+
+     function myClock() {
+       document.getElementById("start").innerHTML = --c;
+       if (c == 0) {
+         clearInterval(myTimer);
+         alert("Reached zero");
+       }
+     }
+   }
 }
